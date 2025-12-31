@@ -7,6 +7,24 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>https://oakllc.co/virginia.html</loc>
+        <lastmod>2024-12-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://oakllc.co/maryland.html</loc>
+        <lastmod>2024-12-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://oakllc.co/dc.html</loc>
+        <lastmod>2024-12-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
         <loc>https://oakllc.co/#about</loc>
         <lastmod>2024-12-31</lastmod>
         <changefreq>monthly</changefreq>
@@ -16,19 +34,7 @@
         <loc>https://oakllc.co/#services</loc>
         <lastmod>2024-12-31</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://oakllc.co/#why-choose-us</loc>
-        <lastmod>2024-12-31</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://oakllc.co/#testimonials</loc>
-        <lastmod>2024-12-31</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>https://oakllc.co/#contact</loc>
